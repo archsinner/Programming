@@ -1,0 +1,52 @@
+body {
+    background-color: #5c5b5b;
+}
+.menu {
+    float: left;
+    width: 0%;
+    color: #FFFFFF;
+}
+.banner {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-size: large;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+}
+.welcome {
+    background-image: url(images/StormOS\ Image1.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: #FFFFFF;
+    padding: 50px;
+    margin: 50px;
+    text-align: center;
+}
+.subscribe {
+    background-color: #000000;
+    color: #FFFFFF;
+    padding: 50px;
+    margin: 50px;
+    text-align: center;
+}
+.DownloadsMenu {
+    float: left;
+    width: 0%;
+    color: #FFFFFF;
+}
+.DownloadsBanner {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-size: large;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+}
+.DownloadsMenu {
+    float: left;
+    width: 0%;
+    color: #FFFFFF;
+}
+
