@@ -1,3 +1,6 @@
+.body{
+	background-color: #462e2e;
+}
 .Header{
 	background-image: url("././Images/Scotts_Banner.jpg");
 	background-repeat: no-repeat;
@@ -59,7 +62,7 @@
 	flex-wrap:wrap;
 	margin-right:-15px;
 	margin-left:-15px;
-	float: center;
+	float: left;
 	width: 50%;
 	padding: 5%;	
 }
@@ -81,6 +84,6 @@
 	background-color: #6e6e6e;
 	padding: 20%;
 	text-align: left;
-	border:  solid 10px;
+	border:  #808080 solid 10px;
 	border-radius: 20%;
 }
