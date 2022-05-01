@@ -3,26 +3,24 @@
 	background-repeat: no-repeat;
 	background-size: cover;
 	padding: 20%;
-	text-align: top;
-	margin: 0%;
-    padding: 0%;
+	text-align: center;
 	border: #000000 solid 10px;
-	color: white;
+	color: rgb(255, 255, 255);
+	border-radius: 20%;
 }
 .AboutMe{
-	background-image: url("././Images/background7.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
-	border: #5a4d4d solid 10px;
-	background-color: #975555;
+	border: #808080 solid 10px;
+	background-color: #6e6e6e;
 	padding: 20%;
 	text-align: left;
+	border-radius: 20%;
 }
 .Photos{
-	background-color: #5a4d4d;
+	background-color: #6e6e6e;
 	padding: 20%;
 	text-align: center;
 	border: #000000 solid 10px;
+	border-radius: 20%;
 }
 .Archsinner{
 	display: block ;
@@ -66,26 +64,23 @@
 	padding: 5%;	
 }
 .FollowMe{
-	background-image: url("././Images/background8.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-color: #645858;
+	background-color: #6e6e6e;
 	padding: 20%;
 	text-align: left;
-	border: #847777 solid 10px;
+	border: #808080 solid 10px;
+	border-radius: 20%;
 }
 .ProgramsColumn{
-	background-image: url("././Images/background9.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-color: #ad7d7d;
+	background-color: #6e6e6e;
 	padding: 20%;
 	text-align: left;
 	border: #000000 solid 10px;
+	border-radius: 20%;
 }
 .BlogColumn{
-	background-color: #b9b9b9;
+	background-color: #6e6e6e;
 	padding: 20%;
 	text-align: left;
-	border: #4d4141 solid 10px;
+	border:  solid 10px;
+	border-radius: 20%;
 }
