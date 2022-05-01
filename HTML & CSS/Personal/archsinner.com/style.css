@@ -1,0 +1,91 @@
+.Header{
+	background-image: url("././Images/Scotts_Banner.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 20%;
+	text-align: top;
+	margin: 0%;
+    padding: 0%;
+	border: #000000 solid 10px;
+	color: white;
+}
+.AboutMe{
+	background-image: url("././Images/background7.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	border: #5a4d4d solid 10px;
+	background-color: #975555;
+	padding: 20%;
+	text-align: left;
+}
+.Photos{
+	background-color: #5a4d4d;
+	padding: 20%;
+	text-align: center;
+	border: #000000 solid 10px;
+}
+.Archsinner{
+	display: block ;
+	float: left;
+	padding: 20px ;
+	clear: both ;
+	max-height: 45%;
+	max-width: 45%;
+	border-radius: 40%;
+	text-align: right;	
+}
+.Benji{
+	display: block ;
+	float: left;
+	padding: 20px ;
+	clear: both ;
+	max-height: 45%;
+	max-width: 45%;
+	border-radius: 40%;
+	text-align: right;	
+}
+.Tito{
+	display: block ;
+	float: left;
+	padding: 20px ;
+	clear: both ;
+	max-height: 45%;
+	max-width: 45%;
+	border-radius: 40%;
+	text-align: right;
+}
+.PhotoRow{
+	display:-ms-flexbox;
+	display:flex;
+	-ms-flex-wrap:wrap;
+	flex-wrap:wrap;
+	margin-right:-15px;
+	margin-left:-15px;
+	float: center;
+	width: 50%;
+	padding: 5%;	
+}
+.FollowMe{
+	background-image: url("././Images/background8.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: #645858;
+	padding: 20%;
+	text-align: left;
+	border: #847777 solid 10px;
+}
+.ProgramsColumn{
+	background-image: url("././Images/background9.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: #ad7d7d;
+	padding: 20%;
+	text-align: left;
+	border: #000000 solid 10px;
+}
+.BlogColumn{
+	background-color: #b9b9b9;
+	padding: 20%;
+	text-align: left;
+	border: #4d4141 solid 10px;
+}
