@@ -2,6 +2,7 @@
 	background-color: #462e2e;
 }
 .Header{
+	width: auto;
 	background-image: url("././Images/Scotts_Banner.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -12,61 +13,53 @@
 	border-radius: 20%;
 }
 .AboutMe{
+	width: auto;
 	border: #808080 solid 10px;
 	background-color: #6e6e6e;
 	padding: 20%;
-	text-align: left;
+	text-align: center;
 	border-radius: 20%;
 }
 .Photos{
+	width: auto;
+	height: auto;
+	float: center;
+	width: auto;
 	background-color: #6e6e6e;
 	padding: 20%;
-	text-align: center;
+	text-align: left;
 	border: #000000 solid 10px;
 	border-radius: 20%;
 }
 .Archsinner{
-	display: block ;
 	float: left;
-	padding: 20px ;
+	padding: 20%; ;
 	clear: both ;
-	max-height: 45%;
-	max-width: 45%;
+	max-height: 25%;
+	max-width: 25%;
 	border-radius: 40%;
 	text-align: right;	
 }
 .Benji{
-	display: block ;
 	float: left;
-	padding: 20px ;
+	padding: 20%;
 	clear: both ;
-	max-height: 45%;
-	max-width: 45%;
+	max-height: 25%;
+	max-width: 25%;
 	border-radius: 40%;
 	text-align: right;	
 }
 .Tito{
-	display: block ;
 	float: left;
-	padding: 20px ;
-	clear: both ;
-	max-height: 45%;
-	max-width: 45%;
+	padding: 20%;
+	clear: both;
+	max-height: 25%;
+	max-width: 25%;
 	border-radius: 40%;
 	text-align: right;
 }
-.PhotoRow{
-	display:-ms-flexbox;
-	display:flex;
-	-ms-flex-wrap:wrap;
-	flex-wrap:wrap;
-	margin-right:-15px;
-	margin-left:-15px;
-	float: left;
-	width: 50%;
-	padding: 5%;	
-}
 .FollowMe{
+	width: auto;
 	background-color: #6e6e6e;
 	padding: 20%;
 	text-align: left;
@@ -74,6 +67,7 @@
 	border-radius: 20%;
 }
 .ProgramsColumn{
+	width: auto;
 	background-color: #6e6e6e;
 	padding: 20%;
 	text-align: left;
@@ -81,6 +75,7 @@
 	border-radius: 20%;
 }
 .BlogColumn{
+	width: auto;
 	background-color: #6e6e6e;
 	padding: 20%;
 	text-align: left;
