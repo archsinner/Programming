@@ -1,35 +1,51 @@
 .body{
-	background-color: #462e2e;
+	background-color: #000000;
+	background-image: url("Images/background10.jpg");
 }
 .Header{
 	width: auto;
-	background-image: url("././Images/Scotts_Banner.jpg");
-	background-repeat: no-repeat;
-	background-size: cover;
-	padding: 20%;
+	height: auto;
 	text-align: center;
-	border: #000000 solid 10px;
-	color: rgb(255, 255, 255);
-	border-radius: 20%;
+	border: #770505 solid 10px;
+	color: black;
+	border-radius: 40%;
+	font-size: 100%;
+	justify-content: left;
+	background-color: #6e6e6e;
+	border-style: double;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	overflow: hidden;
 }
 .AboutMe{
 	width: auto;
-	border: #808080 solid 10px;
+	height: auto;
+	overflow: hidden;
+	border: #770505 solid 10px;
 	background-color: #6e6e6e;
 	padding: 20%;
 	text-align: center;
 	border-radius: 20%;
+	font-size: larger;
+	border-style: double;
+	margin-top: 5%;
+	margin-bottom: 5%;
 }
 .Photos{
 	width: auto;
 	height: auto;
+	overflow: hidden;
 	float: center;
-	width: auto;
 	background-color: #6e6e6e;
 	padding: 20%;
 	text-align: left;
-	border: #000000 solid 10px;
+	border: #770505 solid 10px;
 	border-radius: 20%;
+	display: flex;
+	flex-direction: column;
+	border-style: double;
+	margin-top: 5%;
+	margin-bottom: 5%;
 }
 .Archsinner{
 	float: left;
@@ -56,29 +72,44 @@
 	max-height: 25%;
 	max-width: 25%;
 	border-radius: 40%;
-	text-align: right;
+	text-align: left;
 }
 .FollowMe{
 	width: auto;
+	height: auto;
+	overflow: hidden;
 	background-color: #6e6e6e;
 	padding: 20%;
 	text-align: left;
-	border: #808080 solid 10px;
+	border: #770505 solid 10px;
 	border-radius: 20%;
+	border-style: double;
+	margin-top: 5%;
+	margin-bottom: 5%;
 }
 .ProgramsColumn{
 	width: auto;
+	height: auto;
+	overflow: hidden;
 	background-color: #6e6e6e;
 	padding: 20%;
 	text-align: left;
-	border: #000000 solid 10px;
+	border: #770505 solid 10px;
 	border-radius: 20%;
+	border-style: double;
+	margin-top: 5%;
+	margin-bottom: 5%;
 }
 .BlogColumn{
 	width: auto;
+	height: auto;
+	overflow: hidden;
 	background-color: #6e6e6e;
 	padding: 20%;
 	text-align: left;
-	border:  #808080 solid 10px;
+	border:  #770505 solid 10px;
 	border-radius: 20%;
+	border-style: double;
+	margin-top: 5%;
+	margin-bottom: 5%;
 }
