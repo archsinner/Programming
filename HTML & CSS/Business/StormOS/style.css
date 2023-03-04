@@ -1,0 +1,182 @@
+body {
+    background-color: #000000;
+    size: 100%;
+}
+.menu {
+    float: left;
+    width: 0%;
+    color: #FFFFFF;
+}
+.banner {
+    background-color: #2e2c2c;
+    color: #FFFFFF;
+    font-size: large;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+}
+.welcome {
+    background-image: url(images/StormOS\ Image1.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: #FFFFFF;
+    padding: 50px;
+    margin: 50px;
+    text-align: center;
+}
+.AboutUs {
+    background-color: #2e2c2c;
+    color: #FFFFFF;
+    font-size: large;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+}
+.AboutUsText {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-size: large;
+    font-weight: bold;
+    padding: 5px;
+    text-align: left;
+}
+.AboutUsImage {
+    text-align: right;
+}
+.IncludedSoftware {
+    background-color: #2e2c2c;
+    color: #FFFFFF;
+    font-size: large;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+}
+.IncludedSoftwareList {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-size: large;
+    font-weight: bold;
+    padding: 5px;
+    text-align: left;
+}
+.ProgramsImage {
+    text-align: center;
+}
+.SeeWhatsBeingSaidAboutUs {
+    background-color: #2e2c2c;
+    color: #FFFFFF;
+    font-size: large;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+}
+.stl {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-size: large;
+    font-weight: bold;
+    padding: 5px;
+    text-align: left;
+}
+.stlVideo {
+    text-align: right;
+}
+.tjw {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-size: large;
+    font-weight: bold;
+    padding: 5px;
+    text-align: right;
+}
+.support {
+    background-color: #2e2c2c;
+    color: #FFFFFF;
+    font-size: large;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+}
+.ConnectWithUs {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-size: large;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+}
+.lpr {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-size: large;
+    font-weight: bold;
+    padding: 5px;
+    text-align: left;
+}
+.lprVideo {
+    text-align: right;
+}
+.subscribe {
+    background-color: #000000;
+    color: #FFFFFF;
+    padding: 50px;
+    margin: 50px;
+    text-align: center;
+}
+.DownloadsMenu {
+    float: left;
+    width: 0%;
+    color: #FFFFFF;
+}
+.DownloadsBanner {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-size: large;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+}
+.subscription {
+    background-color: #2e2c2c;
+    color: #FFFFFF;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+.footer {
+    background-color: #000000;
+    color: #FFFFFF;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+.DownloadsMenu {
+    float: left;
+    width: 0%;
+    color: #FFFFFF;
+}
+.DownloadsBanner {
+    background-color: #2e2c2c;
+    color: #FFFFFF;
+    font-size: large;
+    font-weight: bold;
+    padding: 5px;
+    text-align: center;
+}
+.SourceForge {
+    background-color: #2e2c2c;
+    color: #FFFFFF;
+    font-size: large;
+    font-weight: bold;
+    padding: 0px;
+    text-align: left;
+}
+.MirrorLinks {
+    background-color: #2e2c2c;
+    color: #FFFFFF;
+    font-size: large;
+    font-weight: bold;
+    padding: 0px;
+    text-align: left;
+}
