@@ -1,0 +1,65 @@
+body {
+  font-family: 'Courier New', monospace;
+  background-color: black;
+  color: #00FF00;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.terminal {
+  width: 500px;
+  border: 2px solid #00FF00;
+  border-radius: 5px;
+  background-color: #1a1a1a;
+  box-shadow: 0 0 10px #00FF00;
+  overflow: hidden;
+}
+
+.terminal-header {
+  height: 30px;
+  background-color: #000;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding-right: 5px;
+}
+
+.terminal-button {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  margin-left: 5px;
+}
+
+.red { background-color: #FF5F57; }
+.yellow { background-color: #FFBD2E; }
+.green { background-color: #28C940; }
+
+.terminal-body {
+  padding: 10px;
+}
+
+.command { color: #00FF00; }
+.input { color: #00FF00; }
+.output { color: #00FF00; }
+
+.prompt {
+  color: #00FF00;
+  margin-right: 5px;
+}
+
+input[type="text"] {
+  background-color: transparent;
+  color: #00FF00;
+  border: none;
+  outline: none;
+  width: 80%;
+}
+
+/* Disable text selection */
+::selection {
+  background-color: transparent;
+}

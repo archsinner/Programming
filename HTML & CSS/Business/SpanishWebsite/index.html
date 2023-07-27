@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Learn Spanish Vocabulary</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="terminal">
+    <div class="terminal-header">
+      <div class="terminal-buttons">
+        <span class="terminal-button red"></span>
+        <span class="terminal-button yellow"></span>
+        <span class="terminal-button green"></span>
+      </div>
+    </div>
+    <div class="terminal-body">
+      <pre>
+        <span class="command">Welcome to Learn Spanish Vocabulary!</span>
+        <span class="output">Type 'help' to see available commands.</span>
+      </pre>
+      <pre>
+        <span class="input">help</span>
+        <span class="output">Available commands:</span>
+        <span class="output">- list: Display a list of common Spanish words.</span>
+        <span class="output">- translate [word]: Translate the given word to Spanish.</span>
+      </pre>
+    </div>
+    <div class="terminal-footer">
+      <span class="prompt">$</span>
+      <input type="text" id="command-input" autofocus>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
